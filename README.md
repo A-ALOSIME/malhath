@@ -5,6 +5,13 @@
 ---
 
 ## 📱 نظرة عامة على التطبيق (Screenshots)
+### 🔹 شاشات الدخول والبدء
+| الشعار والترحيب | إنشاء حساب جديد  | تسجيل الدخول|
+| :---: | :---: | :---: |
+| <img width="220" alt="Splash Screen" src="https://github.com/user-attachments/assets/78ac2a09-8301-4c9b-9671-5a8ccc24deba" /> | <img width="220" alt="Login" src="https://github.com/user-attachments/assets/d19fe78f-0921-48ba-99e7-ce54a966b9bc" /> | <img width="220" alt="Sign Up" src="https://github.com/user-attachments/assets/207137a8-5b7c-43c9-a877-a85b675182c4" /> |
+
+
+---
 
 ### 🔹 البداية والقائمة الرئيسية
 | الشعار والترحيب | قائمة الملاحظات |
@@ -21,8 +28,11 @@
 | :---: | :---: |
 | <img width="250" alt="Profile" src="https://github.com/user-attachments/assets/e34d3a9f-0dbc-461f-98fb-715a383499db" /> | <img width="500" alt="Database" src="https://github.com/user-attachments/assets/24ec17ce-7486-4907-bf3c-59bc7e6f736c" /> |
 
----
 
+      
+
+
+---
 ## 🛠️ التقنيات المستخدمة
 * **Frontend:** Flutter (Dart)
 * **Backend/Database:** Supabase (PostgreSQL)
