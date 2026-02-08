@@ -14,9 +14,9 @@
 ---
 
 ### 🔹 البداية والقائمة الرئيسية
-| الشعار والترحيب | قائمة الملاحظات |
-| :---: | :---: |
-| <img width="250" alt="Splash Screen" src="https://github.com/user-attachments/assets/78ac2a09-8301-4c9b-9671-5a8ccc24deba" /> | <img width="250" alt="Home Screen" src="https://github.com/user-attachments/assets/a1ad9caa-eab6-4019-b5b5-40133ca9e70c" /> |
+| الشعار والترحيب|
+ :---: |
+ <img width="250" alt="Home Screen" src="https://github.com/user-attachments/assets/a1ad9caa-eab6-4019-b5b5-40133ca9e70c" /> |
 
 ### 🔹 إدارة الملاحظات والمفضلة
 | المفضلة (فارغ) | الملاحظات المفضلة | الملاحظات (فارغ) |
